@@ -5,11 +5,7 @@ from pathlib import Path
 
 st.title("Teste Marcos")
 
-# Set the title and favicon that appear in the Browser's tab bar.
-st.set_page_config(
-    page_title='GDP Marcos dashboard',
-    page_icon=':earth_americas:', # This is an emoji shortcode. Could be a URL too.
-)
+
 
 # -----------------------------------------------------------------------------
 # Declare some useful functions.
